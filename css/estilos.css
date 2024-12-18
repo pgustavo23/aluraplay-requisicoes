@@ -99,6 +99,22 @@ body {
     justify-content: center;
 }
 
+/* ESTILO MENSAGEM DE ERRO */
+.mensagem__titulo {
+    color: red;
+    font-size: 16px;
+    background-color: #f8d7da;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+
+.erro__container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
 @media(min-width: 834px) {
 
     body {

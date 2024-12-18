@@ -83,6 +83,34 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "O MELHOR sistema operacional para programação com Fabio Akita",
+      "descricao": "218 mil visualizações",
+      "url": "https://www.youtube.com/embed/kkbFqCNgFlE",
+      "imagem": "https://i.ytimg.com/vi/kkbFqCNgFlE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBF3kDh9olZp6ammrfiATe6EDq0xA",
+      "id": 13
+    },
+    {
+      "titulo": "Como desenvolver boas práticas de programação? com Fabio Akita ",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/GUanHEGlje4",
+      "imagem": "https://i.ytimg.com/vi/GUanHEGlje4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-SvRD9kC1x4Nv8H7GLVnJzlSzVw",
+      "id": 14
+    },
+    {
+      "titulo": "Se prepare para entrevistas de vagas de Cientista de Dados | Hipsters: Entrevista de Emprego Tech",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/DXmI0RaNn5I",
+      "imagem": "https://i.ytimg.com/vi/DXmI0RaNn5I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDotOwLOkfyulOAcM8JwAW1G0eOFA",
+      "id": 15
+    },
+    {
+      "titulo": "Como usar o ChatGPT para PAIR PROGRAMMING?",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/xa4O0c48ABA",
+      "imagem": "https://i.ytimg.com/vi/xa4O0c48ABA/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwFCVqQnzpe92rV2ESC8rqaGXMjg",
+      "id": 16
     }
   ]
 }
